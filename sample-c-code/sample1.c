@@ -1,8 +1,5 @@
 /*
  * Author: Yee Hong Chu
- * ID: 0773285
- * Assignment: 1
- * Course: CIS*2500
  *
  * Sources: The logic for solving this assignment is based on Lab1.
  */
