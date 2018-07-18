@@ -1,7 +1,5 @@
 /*
   Author       : Yee Hong Chu
-  ID           : 0773285
-  Course       : CIS3210
   Date created : 10/04/2013
   Date modified: 11/09/2013
 */
