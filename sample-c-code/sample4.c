@@ -1,8 +1,5 @@
 /*
  * Author: Yee Hong Chu
- * ID: 0773285
- * Assignment: 4
- * Course: CIS*2500
  */
 
 #include <stdio.h>
