@@ -1,3 +1,10 @@
+/**
+ * Practicing with Java String Class
+ *   with getting user input, manipulating, tokenizing, and
+ *   finding match using regular expressions
+ * @author Tobias
+ *
+ */
 import java.util.Scanner;
 import java.util.StringTokenizer;
 import java.util.regex.Matcher;
